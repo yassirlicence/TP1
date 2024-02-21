@@ -1,6 +1,7 @@
 public class Etudiant {
     // Propriétés
     private String nom;
+    private String prenom
     private int age;
     
     // Constructeur
