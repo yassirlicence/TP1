@@ -3,7 +3,7 @@ public class Etudiant {
     private String nom;
     private String prenom;
     private int age;
-    private double note;
+    private double notes;
     
     // Constructeur
     public Etudiant(String nom, String prenom, int age, double note) {
